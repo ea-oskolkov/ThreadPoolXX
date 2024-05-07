@@ -8,10 +8,6 @@ Mode support:
 * allocate everything at once;
 * incremental allocate.
 
-# Requirements and restrictions
-
-Compiler with support for C++14 or above.
-
 # Build
 
 In the source code directory run:
