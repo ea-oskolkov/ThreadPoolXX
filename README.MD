@@ -4,10 +4,6 @@ ThreadPoolXX
 # Overview
 Library providing a thread pool.
 
-Mode support:
-* allocate everything at once;
-* incremental allocate.
-
 # Requirements
 
 * Compiler with С++20 support
